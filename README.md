@@ -1,4 +1,6 @@
-B2B SaaS product marketer in Pune, India, who builds the GTM systems behind the campaigns.
+Positioning, pipeline and the systems behind them.
+
+Ankit Dwivedi is an AI native product marketer with 8+ years in B2B SaaS. Based in Pune, he helps B2B software teams grow pipeline in the US, Europe, Oceania and APAC.
 
 - [ankitdwivedi.com](https://ankitdwivedi.com) — portfolio, case studies and GTM writing
 - [wheresmybrand.com](https://wheresmybrand.com) — brand visibility and AI-answer tracking platform
